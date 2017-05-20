@@ -1,4 +1,4 @@
-var cars = ["Nissan", "Mitsubishi", "Toyota", "Ford", "Subaru", "Ferrari", "Lamborghini", "Mclaren", "Dodge", "Mazda", "Bmw", "Mercedes", "Koenigsegg"];
+var cars = ["Nissan", "Mitsubishi", "Toyota", "Subaru", "Ferrari", "Lamborghini", "Mclaren", "Koenigsegg"];
 
 function displayData() {
     var car = $(this).attr("data-name");
